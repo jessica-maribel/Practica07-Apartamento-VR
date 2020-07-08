@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 21e4b8574507f4d4a8b0beddebc97b07
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BedFrameBase1
+    100002: BedFrameHeadboard1
+    100004: BedLeg1
+    100006: BedLeg2
+    100008: BedLeg3
+    100010: BedLeg4
+    100012: //RootNode
+    100014: cama1
+    100016: MatressCorner1
+    100018: MatressCorner2
+    100020: MatressCorner3
+    100022: MatressCorner4
+    100024: Mattress1
+    100026: MattressBottom1
+    100028: MattressBottom2
+    100030: MattressInside1
+    100032: MattressSide1
+    100034: MattressSide2
+    100036: Mesh1
+    100038: Mesh10
+    100040: Mesh11
+    100042: Mesh12
+    100044: Mesh13
+    100046: Mesh14
+    100048: Mesh15
+    100050: Mesh16
+    100052: Mesh17
+    100054: Mesh2
+    100056: Mesh3
+    100058: Mesh4
+    100060: Mesh5
+    100062: Mesh6
+    100064: Mesh7
+    100066: Mesh8
+    100068: Mesh9
+    100070: Pillow1
+    100072: Pillow_copy_001
+    100074: stripe1
+    100076: stripe2
+    100078: StripeTop1
+    400000: BedFrameBase1
+    400002: BedFrameHeadboard1
+    400004: BedLeg1
+    400006: BedLeg2
+    400008: BedLeg3
+    400010: BedLeg4
+    400012: //RootNode
+    400014: cama1
+    400016: MatressCorner1
+    400018: MatressCorner2
+    400020: MatressCorner3
+    400022: MatressCorner4
+    400024: Mattress1
+    400026: MattressBottom1
+    400028: MattressBottom2
+    400030: MattressInside1
+    400032: MattressSide1
+    400034: MattressSide2
+    400036: Mesh1
+    400038: Mesh10
+    400040: Mesh11
+    400042: Mesh12
+    400044: Mesh13
+    400046: Mesh14
+    400048: Mesh15
+    400050: Mesh16
+    400052: Mesh17
+    400054: Mesh2
+    400056: Mesh3
+    400058: Mesh4
+    400060: Mesh5
+    400062: Mesh6
+    400064: Mesh7
+    400066: Mesh8
+    400068: Mesh9
+    400070: Pillow1
+    400072: Pillow_copy_001
+    400074: stripe1
+    400076: stripe2
+    400078: StripeTop1
+    2100000: Wood_Veneer_01
+    2100002: Color_M02
+    2100004: Color_C06
+    2300000: Mesh1
+    2300002: Mesh10
+    2300004: Mesh11
+    2300006: Mesh12
+    2300008: Mesh13
+    2300010: Mesh14
+    2300012: Mesh15
+    2300014: Mesh16
+    2300016: Mesh17
+    2300018: Mesh2
+    2300020: Mesh3
+    2300022: Mesh4
+    2300024: Mesh5
+    2300026: Mesh6
+    2300028: Mesh7
+    2300030: Mesh8
+    2300032: Mesh9
+    3300000: Mesh1
+    3300002: Mesh10
+    3300004: Mesh11
+    3300006: Mesh12
+    3300008: Mesh13
+    3300010: Mesh14
+    3300012: Mesh15
+    3300014: Mesh16
+    3300016: Mesh17
+    3300018: Mesh2
+    3300020: Mesh3
+    3300022: Mesh4
+    3300024: Mesh5
+    3300026: Mesh6
+    3300028: Mesh7
+    3300030: Mesh8
+    3300032: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
+    4300024: Mesh13
+    4300026: Mesh14
+    4300028: Mesh15
+    4300030: Mesh16
+    4300032: Mesh17
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
